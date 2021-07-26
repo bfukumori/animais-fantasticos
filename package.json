@@ -1,0 +1,24 @@
+{
+  "name": "javascript-origamid",
+  "version": "1.0.0",
+  "description": "animais-fantasticos",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development --watch"
+  },
+  "author": "Bruno Fukumori",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/plugin-transform-runtime": "^7.14.5",
+    "@babel/preset-env": "^7.14.8",
+    "babel-loader": "^8.2.2",
+    "eslint": "^7.31.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "webpack": "^5.46.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
