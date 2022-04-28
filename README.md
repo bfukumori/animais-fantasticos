@@ -1,4 +1,9 @@
 # animais-fantasticos
+
+<h1 align="center">
+    <img alt="animais-fantásticos" title="#animais-fantásticos" src="./img/banner.PNG" />
+</h1>
+
 Site desenvolvido durante o curso de Javascript da Origamid.
 No projeto foram abordados diversos conceitos de Javascript e suas aplicações para fornecer funcionalidade ao site.
 Dentre as principais aplicações desenvolvidas temos:
